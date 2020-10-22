@@ -1,0 +1,36 @@
+.my-name{
+    text-align: left;
+    
+}
+* {
+    box-sizing: border-box;
+  }
+main-div{
+    line-height: 50%;
+     }
+
+
+    img {
+        width: 20%;
+        height: auto;
+      }
+      table {
+        border-collapse: separate;
+        border-spacing: 0 15px;
+      }
+
+      td {
+        width: 150px;
+        text-align: center;
+        border: 1px solid black;
+        padding: 5px;
+      }
+      
+      h2 {
+        color: #4287f5;
+      }
+
+      .test1, .test2, .phn{
+        line-height: 50%;
+
+      }

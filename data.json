@@ -1,0 +1,41 @@
+{
+    
+    "mydetails":
+    {
+        "name":"Thanuja P",
+        "age":19,
+        "dob": "30-06-2001",
+        "image":"ImageChar.png",
+        "phnno":9000000000,
+        "email":"myemail.gmail.com",
+        "Aboutme":"I am 20 year-old undergrad. Currently pursuing my Btech in the stream of CSE. I am interested in building websites and Designing."
+        
+    },
+    "skills":
+       {"lang1" :"c",
+        "lang2":"Java",
+        "lang3":"python"
+       }
+    ,
+    "Otherskills":{
+        "skill":
+    ["drawing", "Badminton", "Videogames"]
+    
+    },
+
+    
+    "education":
+        [
+        { "Edu":"ssc" ,"Sname":"Govt high", 
+        "grade": 9}, 
+        
+        {"Edu":"inter","Sname":"viswasai","grade": 9},
+
+        {"Edu":"Degree","Sname":"NBKR", "grade":"--"}
+    ]
+}
+    
+
+
+    
+
